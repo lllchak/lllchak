@@ -1,7 +1,4 @@
 <h2> Hi there!</h2>
-
-<img align='right' src="https://habrastorage.org/webt/tn/jp/ep/tnjpepft7cptughbj_1bmrublio.gif" width="430">
-
 I am <b>Pavel Lyulchak</b>.
 I am a machine learning engineer intern @SBerData <br>
 
