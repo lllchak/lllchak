@@ -1,7 +1,7 @@
 <h2> Hi there!</h2>
 I am <b>Pavel Lyulchak</b>, machine learning engineer intern @SBerData in the tabular data generation research team. <br>
 
-Currently I am studying @REU and @21SoftwareEndineeringSchool. Also I enjoy solving LeetCode problems and take part at Kaggle competitions.
+Currently I am studying @REU and @21SoftwareEngineeringSchool. Also I enjoy solving LeetCode problems and take part at Kaggle competitions.
 
 ### Areas of interests
 My main areas of interest in development are:
