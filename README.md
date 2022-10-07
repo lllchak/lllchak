@@ -1,10 +1,12 @@
 <h2> Hi there!</h2>
-I am <b>Pavel Lyulchak</b>, machine learning engineer intern @SBerData. <br>
+I am <b>Pavel Lyulchak</b>, machine learning engineer intern @SBerData in the tabular data generation research team. <br>
 
-Currently I am studying @REU and @21SoftwareEndineeringSchool. Also I enjoy solving LeetCode problems and take part at Kaggle competitions. <br>
+Currently I am studying @REU and @21SoftwareEndineeringSchool. Also I enjoy solving LeetCode problems and take part at Kaggle competitions.
+
+### Areas of interests
 My main areas of interest in development are:
 - Computer vision
-- Generative algorithms (also for tabular data)
+- Generative algorithms (text, images, tabular data)
 
 ### Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/python/python.png"></code>
