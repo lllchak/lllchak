@@ -10,8 +10,7 @@ Currently I am studying @REU and @21SoftwareEndineeringSchool. Also I enjoy solv
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-## Social networking
-Also, you can find me on <br>
+### You can find me on
 <a href="https://github.com/lllchak" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
@@ -24,7 +23,7 @@ Also, you can find me on <br>
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
 
-## Local stats (without github groups)
+### Local stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lllchak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
