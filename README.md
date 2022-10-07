@@ -11,7 +11,7 @@ Currently I am studying @REU and @21SoftwareEndineeringSchool. Also I enjoy solv
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Social networking
-Also, you can find me on
+Also, you can find me on <br>
 <a href="https://github.com/lllchak" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
 </a>
