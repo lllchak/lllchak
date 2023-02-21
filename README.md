@@ -1,8 +1,6 @@
 <h2> Hi there!</h2>
 I am <b>Pavel Lyulchak</b>, machine learning engineer. <br>
 
-Currently I am studying @REU and @21SoftwareEngineeringSchool. Also I enjoy solving LeetCode problems and take part at Kaggle competitions.
-
 ### Areas of interests
 My main areas of interest in development are:
 - Computer vision
