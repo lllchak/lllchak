@@ -1,5 +1,5 @@
 <h2> Hi there!</h2>
-I am <b>Pavel Lyulchak</b>, machine learning engineer. <br>
+I am <b>Pavel Lyulchak</b>, machine learning engineer @VK (Dzen). <br>
 
 ### Areas of interests
 My main areas of interest in development are:
