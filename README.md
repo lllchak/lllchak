@@ -1,10 +1,10 @@
 <h2> Hi there!</h2>
-I am <b>Pavel Lyulchak</b>, machine learning engineer @VK (Dzen). <br>
+I am <b>Pavel Lyulchak</b>, machine learning engineer @SberMarket. <br>
 
 ### Areas of interests
-My main areas of interest in development are:
-- Computer vision
-- Generative algorithms (text, images, tabular data)
+My main areas of interest are:
+- Recommender Systems
+- Natural Language Processing
 
 ### Languages and Tools
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/python/python.png"></code>
@@ -31,7 +31,3 @@ My main areas of interest in development are:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lllchak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
-<!---
-ksilisk/ksilisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
