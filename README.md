@@ -25,9 +25,3 @@ My main areas of interest are:
 <a href="https://t.me/lllchak" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram">
 </a>
-
-### Local stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lllchak&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
