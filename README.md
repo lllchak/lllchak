@@ -23,5 +23,5 @@ My main areas of interest are:
 </a>
 
 <a href="https://instagram.com/lllchak" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=instagram" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram" alt="Instagram">
 </a>
