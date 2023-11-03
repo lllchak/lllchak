@@ -1,5 +1,5 @@
 <h2> Hi there!</h2>
-I am <b>Pavel Lyulchak</b>, machine learning engineer @SberMarket. <br>
+I am <b>Pavel Lyulchak</b>, machine learning engineer @Yandex <br>
 
 ### Areas of interests
 My main areas of interest are:
